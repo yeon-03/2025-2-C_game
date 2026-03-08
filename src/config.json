@@ -1,0 +1,22 @@
+{
+  "board_rows": 6,
+  "board_cols": 6,
+  "time_limit_sec": 120,
+  "combo_freeze_sec": 2,
+  "combo_peek_sec": 2,
+  "ai": {
+    "easy": {
+      "accuracy": 0.20,
+      "reaction_ms": 1000
+    },
+    "normal": {
+      "accuracy": 0.60,
+      "reaction_ms": 1000
+    },
+    "hard": {
+      "accuracy": 0.95,
+      "reaction_ms": 1000
+    }
+  },
+  "seed": 1234
+}

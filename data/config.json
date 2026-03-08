@@ -1,0 +1,8 @@
+{
+   "easy_accuracy"      : 0.55,
+   "easy_reaction_ms"   : 800,
+   "normal_accuracy"    : 0.75,
+   "normal_reaction_ms" : 550,
+   "hard_accuracy"      : 0.90,
+   "hard_reaction_ms"   : 350
+}
